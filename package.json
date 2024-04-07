@@ -1,0 +1,12 @@
+{
+  "name": "typescript-coding-challenges",
+  "version": "1.0.0",
+  "description": "Dive into TypeScript coding challenges to sharpen your skills in writing clear, maintainable, and scalable code.",
+  "main": "task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tayyaba Ramzan",
+  "license": "MIT"
+}
