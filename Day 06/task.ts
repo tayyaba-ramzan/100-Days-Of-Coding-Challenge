@@ -1,6 +1,6 @@
 // 🚀 Day 6 Challenge: Start Coding! 🚀
 
-// Question 1: More Guests: You've found a bigger dinner table, so there's room for more guests.
+// Question 16: More Guests: You've found a bigger dinner table, so there's room for more guests.
 
 let guests: string[] = ["Abeeha", "Fabeeha", "Faryal", "Kinza"];
 console.log("Great news! I found a bigger dinner table!");
@@ -14,7 +14,7 @@ for (let guest of guests) {
 
 //                         XXXXXXXXXXXXXXX
 
-// Question 2: Shrinking Guest List: Unfortunately, your new table won’t arrive in time, and you can only invite two guests.
+// Question 17: Shrinking Guest List: Unfortunately, your new table won’t arrive in time, and you can only invite two guests.
 
 console.log("Unfortunately, I can only invite two people for dinner.");
 while (guests.length > 2) {
@@ -30,7 +30,7 @@ console.log(guests);
 
 //                         XXXXXXXXXXXXXXX
 
-// Question 3: Seeing the World: Think of at least five places you’d like to visit.
+// Question 18: Seeing the World: Think of at least five places you’d like to visit.
 
 let places: string[] = ["Pakistan", "Iceland", "Japan", "Switzerland", "Norway"];
 
