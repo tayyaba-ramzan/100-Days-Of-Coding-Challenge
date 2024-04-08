@@ -31,7 +31,7 @@ show_magicians(magicians);
 
 //                               XXXXXXXXXXXXXXXX
 
-// Question 36: T-Shirt: Create a function for customizing t-shirts.
+// Question 42: Great Magicians: Add "the Great" to magician names.
 
 function make_great(magicians: string[]) {
     for (let i = 0; i < magicians.length; i++) {
