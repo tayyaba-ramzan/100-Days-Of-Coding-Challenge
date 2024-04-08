@@ -1,6 +1,6 @@
 // 🚀 Day 8 Challenge: Start Coding! 🚀
 
-// Question 1: Intentional Error: Try to produce an array index error in one of your programs. Correct the error before finishing.
+// Question 22: Intentional Error: Try to produce an array index error in one of your programs. Correct the error before finishing.
 
 let cousins:string[]=["Areeba","Rida Fatima","Hifza"];
 console.log(cousins[2]);
@@ -8,7 +8,7 @@ console.log(cousins[2]);
 
 //                               XXXXXXXXXXXXXXXX
 
-// Question 2: Conditional Tests: Write a series of conditional tests. Predict the results of each test.
+// Question 23: Conditional Tests: Write a series of conditional tests. Predict the results of each test.
 
 let num:number=3;
 if (num%2==0) {
