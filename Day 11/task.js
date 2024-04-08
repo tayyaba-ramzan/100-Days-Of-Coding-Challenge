@@ -8,7 +8,7 @@ else {
     // Greet users
 }
 //                           XXXXXXXXXXXXXXXXXXX
-// Question 33: Ordinal Numbers: Display numbers with their ordinal suffixes.
+// Question 32: Checking Usernames: Ensure uniqueness in usernames.
 var current_users = ["user1", "admin", "user3", "user4", "user5"];
 var new_users = ["User1", "User6", "user7", "admin", "User9"];
 new_users.forEach(function (newUser) {
