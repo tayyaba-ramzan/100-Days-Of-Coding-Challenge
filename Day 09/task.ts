@@ -1,6 +1,6 @@
 // 🚀 Day 9 Challenge: Start Coding! 🚀
 
-// Question 1: Alien Colors #1: Imagine an alien was just shot down in a game. Assign 'green', 'yellow', or 'red' to a variable called alien_color.
+// Question 25: Alien Colors #1: Imagine an alien was just shot down in a game. Assign 'green', 'yellow', or 'red' to a variable called alien_color.
 
 let alien_color: string = "green";
 if (alien_color === "green") {
@@ -10,7 +10,7 @@ if (alien_color === "green") {
 
 //                         XXXXXXXXXXXXXXX
 
-// Question 2: Alien Colors #2: Choose a color for an alien, then write an if-else chain.
+// Question 26: Alien Colors #2: Choose a color for an alien, then write an if-else chain.
 
 let alienColor: string = "green";
 if (alienColor === "green") {
@@ -23,7 +23,7 @@ if (alienColor === "green") {
 
 //                         XXXXXXXXXXXXXXX
 
-// Question 3: Alien Colors #3: Convert your if-else chain to handle three colors: green, yellow, red.
+// Question 27: Alien Colors #3: Convert your if-else chain to handle three colors: green, yellow, red.
 
 let AlienColor: string = "yellow";
 if (AlienColor === "green") {
