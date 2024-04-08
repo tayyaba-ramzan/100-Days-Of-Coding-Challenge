@@ -1,6 +1,6 @@
 // 🚀 Day 10 Challenge: Start Coding! 🚀
 
-// Question 1: Stages of Life: Determine a person’s life stage with an if-else chain.
+// Question 28: Stages of Life: Determine a person’s life stage with an if-else chain.
 
 let age: number = 1;
 if (age < 2) {
@@ -26,7 +26,7 @@ if (age < 2) {
 //                           XXXXXXXXXXXXXXXXXXX
 
 
-// Question 2: Favorite Fruit: Create an array for your favorite fruits and check if certain fruits are included.
+// Question 29: Favorite Fruit: Create an array for your favorite fruits and check if certain fruits are included.
 
 let favoriteFruit:string[]=["Grapes","Apple","Mango"];
 if (favoriteFruit.includes("Grapes")) {
@@ -40,7 +40,7 @@ if (favoriteFruit.includes("Mango")) {
 
 //                           XXXXXXXXXXXXXXXXXXX
 
-// Question 3: Hello Admin: Greet users differently, especially 'admin'.
+// Question 30: Hello Admin: Greet users differently, especially 'admin'.
 
 let userNames:string[]=["admin","userOne","userTwo","userThree"];
 for (let userName of userNames){
