@@ -1,5 +1,5 @@
 // 🚀 Day 10 Challenge: Start Coding! 🚀
-// Question 1: Stages of Life: Determine a person’s life stage with an if-else chain.
+// Question 28: Stages of Life: Determine a person’s life stage with an if-else chain.
 var age = 1;
 if (age < 2) {
     console.log("This Person is a Baby!");
@@ -20,7 +20,7 @@ else {
     console.log("This Person is an Elder!");
 }
 //                           XXXXXXXXXXXXXXXXXXX
-// Question 2: Favorite Fruit: Create an array for your favorite fruits and check if certain fruits are included.
+// Question 29: Favorite Fruit: Create an array for your favorite fruits and check if certain fruits are included.
 var favoriteFruit = ["Grapes", "Apple", "Mango"];
 if (favoriteFruit.includes("Grapes")) {
     console.log("You really like Grapes!");
@@ -29,7 +29,7 @@ if (favoriteFruit.includes("Mango")) {
     console.log("You really like Mango!");
 }
 //                           XXXXXXXXXXXXXXXXXXX
-// Question 3: Think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
+// Question 30: Think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
 var book = {
     title: "The Hobbit",
     author: "J.R.R Tolkein",
