@@ -1,12 +1,12 @@
 // 🚀 Day 5 Challenge: Start Coding! 🚀
-// Question 1: Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
+// Question 13: Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
 var transports = ["Honda", "Comic", "BikesForever"];
 for (var _i = 0, transports_1 = transports; _i < transports_1.length; _i++) {
     var transport = transports_1[_i];
     console.log("I would like to own a ".concat(transport));
 }
 //                               XXXXXXXXXXXXXXXX
-// Question 2: Guest List: If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d like to invite to dinner. Then use your list to print a message to each person, inviting them to dinner.
+// Question 14: Guest List: If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d like to invite to dinner. Then use your list to print a message to each person, inviting them to dinner.
 var guests = ["Amir", "Faisal", "Hassan"];
 for (var _a = 0, guests_1 = guests; _a < guests_1.length; _a++) {
     var guest = guests_1[_a];
