@@ -12,7 +12,7 @@ if (userName.length === 0) {
 
 //                           XXXXXXXXXXXXXXXXXXX
 
-// Question 33: Ordinal Numbers: Display numbers with their ordinal suffixes.
+// Question 32: Checking Usernames: Ensure uniqueness in usernames.
 
 let current_users: string[] = ["user1", "admin", "user3", "user4", "user5"];
 let new_users: string[] = ["User1", "User6", "user7", "admin", "User9"];
