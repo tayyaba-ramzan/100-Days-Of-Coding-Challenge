@@ -1,14 +1,6 @@
 // 🚀 Day 6 Challenge: Start Coding! 🚀
-var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
-    if (pack || arguments.length === 2) for (var i = 0, l = from.length, ar; i < l; i++) {
-        if (ar || !(i in from)) {
-            if (!ar) ar = Array.prototype.slice.call(from, 0, i);
-            ar[i] = from[i];
-        }
-    }
-    return to.concat(ar || Array.prototype.slice.call(from));
-};
-// Question 1: More Guests: You've found a bigger dinner table, so there's room for more guests.
+
+// Question 16: More Guests: You've found a bigger dinner table, so there's room for more guests.
 var guests = ["Abeeha", "Fabeeha", "Faryal", "Kinza"];
 console.log("Great news! I found a bigger dinner table!");
 guests.unshift("Muskan");
@@ -19,7 +11,7 @@ for (var _i = 0, guests_1 = guests; _i < guests_1.length; _i++) {
     console.log("Dear ".concat(guest, ", would you like to join me for dinner?"));
 }
 //                         XXXXXXXXXXXXXXX
-// Question 2: Shrinking Guest List: Unfortunately, your new table won’t arrive in time, and you can only invite two guests.
+// Question 17: Shrinking Guest List: Unfortunately, your new table won’t arrive in time, and you can only invite two guests.
 console.log("Unfortunately, I can only invite two people for dinner.");
 while (guests.length > 2) {
     var removedGuest = guests.pop();
@@ -32,7 +24,7 @@ for (var _a = 0, guests_2 = guests; _a < guests_2.length; _a++) {
 guests.splice(0, guests.length);
 console.log(guests);
 //                         XXXXXXXXXXXXXXX
-// Question 3: Seeing the World: Think of at least five places you’d like to visit.
+// Question 18: Seeing the World: Think of at least five places you’d like to visit.
 var places = ["Pakistan", "Iceland", "Japan", "Switzerland", "Norway"];
 console.log("Original order:", places);
 console.log("Alphabetical order:", __spreadArray([], places, true).sort());
