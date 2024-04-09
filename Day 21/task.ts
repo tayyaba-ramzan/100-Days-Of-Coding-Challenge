@@ -47,6 +47,4 @@ let rectangle:Shape={
 console.log(circle);
 console.log(rectangle);
 
-
-
 //                               XXXXXXXXXXXXXXXX
