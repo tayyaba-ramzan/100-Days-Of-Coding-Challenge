@@ -11,7 +11,6 @@ for (let guest of guests) {
     console.log(`Dear ${guest}, would you like to join me for dinner?`);
 }
 
-
 //                         XXXXXXXXXXXXXXX
 
 // Question 17: Shrinking Guest List: Unfortunately, your new table won’t arrive in time, and you can only invite two guests.
