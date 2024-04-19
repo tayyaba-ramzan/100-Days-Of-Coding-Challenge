@@ -12,10 +12,10 @@ console.log(cousins[2]);
 
 let num:number=3;
 if (num%2==0) {
-    console.log("Even Number True");
+    console.log(num,"Even Number True");
     
 } else {
-    console.log("Odd Number False");
+    console.log(num,"Odd Number False");
     
 }
 
