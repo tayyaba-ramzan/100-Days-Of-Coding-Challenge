@@ -29,8 +29,8 @@ new_users.forEach(newUser => {
 
 // Question 33: Ordinal Numbers: Display numbers with their ordinal suffixes.
 
-let numbers: number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-for (let number of numbers) {
+let numbers: OrdinalNumber[] = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+for (let number of OrdinalNumbers) {
     let suffix = "th";
     if (number === 1) {
         suffix = "st"
