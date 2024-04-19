@@ -5,7 +5,6 @@
 
 console.log(`Albert Einstein once said, “A person who never made a mistake never tried anything new.”`);
 
-
 //                               XXXXXXXXXXXXXXXX
 
 // Question 5: Personal Message: Store a person’s name in a variable and print a message to them, like “Hello Asharib, would you like to learn some TypeScript today?”
