@@ -5,7 +5,6 @@
 let guests:string[]=["Abeeha","Fabeeha","Faryal","Kinza"];
 console.log(`I am inviting ${guests.length} people to dinner.`);
 
-
 //                           XXXXXXXXXXXXXXXXXXX
 
 // Question 20: Think of something you could store in an array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items.
@@ -26,9 +25,3 @@ let book={
 console.log(`Book Info: ${book.title} by ${book.author}, published in ${book.yearPublished}.`);
 
 //                           XXXXXXXXXXXXXXXXXXX
-
-
-
-
-
-
