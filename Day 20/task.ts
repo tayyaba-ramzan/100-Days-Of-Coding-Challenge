@@ -24,7 +24,7 @@ console.log(addFive(10));
 
 // Question 60: Self-Running User Profile: Create a quick, self-setup profile for a user that can tell you the user's name and age.
 
-let userProfle = (function () {
+let userProfle = function () {
     let name = "Tayyaba";
     let age = 20;
     return {
@@ -33,6 +33,8 @@ let userProfle = (function () {
 
         }
     }
-})();
+}();
+
+console.log(userProfile.displayInfo());
 
 //                         XXXXXXXXXXXXXXX
