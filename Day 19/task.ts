@@ -6,7 +6,6 @@ let number: number[] = [2, 4, 6, 8, 10, 12];
 let doubleNumber = number.map(number => number * 2);
 console.log(doubleNumber);
 
-
 //                         XXXXXXXXXXXXXXX
 
 // Question 56: Keep Only Strings: Given a mix of different types of items, make a new list that has only the words.
@@ -14,7 +13,6 @@ console.log(doubleNumber);
 let mixedArray = [1, "Apple", "Banana", 2, true, false, "Carrot"];
 let stringArray = mixedArray.filter(item => typeof item === "string");
 console.log(stringArray);
-
 
 //                         XXXXXXXXXXXXXXX
 
