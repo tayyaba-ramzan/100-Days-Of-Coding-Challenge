@@ -36,11 +36,14 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 // Question 139: List three reserved words in JavaScript and create a valid use case for each.
+// Reversed Word Let
 // let if = 5;
 var count = 12;
+// Reversed Word If
 if (count > 0) {
     console.log("Count is greater than 0.");
 }
+// Reversed Word Function
 function add(a, b) {
     return a + b;
 }
