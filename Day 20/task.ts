@@ -1,3 +1,5 @@
+//                 🚀|| 100 Days of Coding Challenge || 🚀
+
 // 🚀 Day 20 Challenge: Start Coding! 🚀
 
 // Question 58: Average Score Calculator: Write a simple program that can take lots of scores and find their average.
