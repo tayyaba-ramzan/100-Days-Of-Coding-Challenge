@@ -1,3 +1,4 @@
+//                 🚀|| 100 Days of Coding Challenge || 🚀
 // 🚀 Day 11 Challenge: Start Coding! 🚀
 // Question 31: No Users: Ensure your user list isn’t empty.
 var userName = [];
