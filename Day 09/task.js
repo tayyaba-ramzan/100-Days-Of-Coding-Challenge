@@ -1,5 +1,5 @@
+//                 🚀|| 100 Days of Coding Challenge || 🚀
 // 🚀 Day 6 Challenge: Start Coding! 🚀
-
 // Question 25: More Guests: You've found a bigger dinner table, so there's room for more guests.
 var guests = ["Abeeha", "Fabeeha", "Faryal", "Kinza"];
 console.log("Great news! I found a bigger dinner table!");
