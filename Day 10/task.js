@@ -1,3 +1,4 @@
+//                 🚀|| 100 Days of Coding Challenge || 🚀
 // 🚀 Day 10 Challenge: Start Coding! 🚀
 // Question 28: Stages of Life: Determine a person’s life stage with an if-else chain.
 var age = 1;
