@@ -3,7 +3,7 @@
 // 🚀 Day 54 Challenge: Start Coding! 🚀
 
 // Hello World
-console.log("Hello World!");
+alert("Hello World!");
 
 // Variables
 let myName="Tayyaba Ramzan";
